@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EyafiNeo
 - 👀 I’m interested in Blockchain
-- 🌱 I’m currently learning Backend development
+- 🌱 I’m currently working in Backend development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me eyafineo@gmail.com, sarwarazmain.cse@gmail.com
 
